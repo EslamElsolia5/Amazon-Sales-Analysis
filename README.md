@@ -1,4 +1,4 @@
-# 📊 Amazon Products Sales Dashboard
+# Amazon Products Sales Dashboard
 
 This Power BI dashboard provides a visual analysis of Amazon product sales, reviews, and performance across categories.
 
@@ -47,7 +47,7 @@ It also includes:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Created by **Eslam Ehab Elsolia**  
 eslam.elsolia5@gmail.com 
